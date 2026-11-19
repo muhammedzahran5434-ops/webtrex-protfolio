@@ -1,0 +1,6 @@
+{
+  "name": "WEBTREX",
+  "description": "Digital Product & Engineering Studio — Websites, Mobile Apps, Software, and Release Vault backed by SQLite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
